@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/generators",
+    "name": "directoryxx/generators",
     "description": "Laravel Artisan Generators for OAuth1/OAuth2 Providers",
     "license": "MIT",
     "authors": [{
@@ -11,6 +11,11 @@
         "name": "dingdayu",
         "email": "614422099@qq.com",
         "homepage": "https://github.com/dingdayu",
+        "role": "Developer"
+    },{
+        "name": "Anak Agung Angga Wijaya",
+        "email": "anggawijaya4567@gmail.com",
+        "homepage": "https://github.com/directoryxx",
         "role": "Developer"
     }],
     "require": {
